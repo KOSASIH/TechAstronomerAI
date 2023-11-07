@@ -3,7 +3,8 @@ Discovering cosmic phenomena and extraterrestrial life with AI.
 
 # Contents 
 
-- [Description](#description) 
+- [Description](#description)
+- [Vision And Mission](#vision-and-mission) 
 
 # Description 
 
@@ -13,7 +14,11 @@ TechAstronomerAI is an innovative platform designed to explore and unravel the m
 
 # Vision And Mission 
 
+**Vision:** 
+To revolutionize the field of astronomy by using AI to uncover the secrets of the universe, enabling humanity to understand, appreciate, and embrace the vast cosmic landscape and potential extraterrestrial life.
 
+**Mission:** 
+TechAstronomerAI is dedicated to developing and implementing advanced AI technologies to scrutinize, analyze, and interpret astronomical data in order to unveil new cosmic phenomena, identify celestial objects, and potentially detect signals of extraterrestrial life. Through continuous innovation, collaboration with experts, and the pursuit of knowledge, we aim to expand the frontiers of astronomy, enabling a deeper understanding of the cosmos and our place within it.
 
 # Developing AI System Tutorials: 
 
