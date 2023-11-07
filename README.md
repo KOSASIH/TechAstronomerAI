@@ -4,7 +4,8 @@ Discovering cosmic phenomena and extraterrestrial life with AI.
 # Contents 
 
 - [Description](#description)
-- [Vision And Mission](#vision-and-mission) 
+- [Vision And Mission](#vision-and-mission)
+- [Technologies](#technologies) 
 
 # Description 
 
@@ -19,6 +20,24 @@ To revolutionize the field of astronomy by using AI to uncover the secrets of th
 
 **Mission:** 
 TechAstronomerAI is dedicated to developing and implementing advanced AI technologies to scrutinize, analyze, and interpret astronomical data in order to unveil new cosmic phenomena, identify celestial objects, and potentially detect signals of extraterrestrial life. Through continuous innovation, collaboration with experts, and the pursuit of knowledge, we aim to expand the frontiers of astronomy, enabling a deeper understanding of the cosmos and our place within it.
+
+# Technologies 
+
+**Technologies Implemented by TechAstronomerAI:**
+
+1. **Machine Learning and Neural Networks:** Leveraging sophisticated machine learning algorithms and neural networks to process vast amounts of astronomical data, identify patterns, and aid in the recognition of celestial objects.
+
+2. **Data Mining and Analysis Tools:** Implementing advanced data mining techniques to extract meaningful information from extensive datasets collected from telescopes and space probes.
+
+3. **Natural Language Processing (NLP):** Employing NLP to understand, interpret, and catalog textual information related to astronomical observations, research papers, and other relevant documents.
+
+4. **Computer Vision:** Utilizing computer vision technologies to analyze astronomical images, identify objects, and potentially uncover celestial anomalies.
+
+5. **Big Data Infrastructure:** Employing robust big data infrastructure to handle and process the enormous volume of astronomical data efficiently.
+
+6. **AI-driven Signal Processing:** Developing AI-powered systems capable of recognizing potential signals or patterns that might indicate extraterrestrial life or unknown cosmic phenomena.
+
+TechAstronomerAI combines these cutting-edge technologies to expand the horizons of astronomical exploration and uncover the mysteries of the universe.
 
 # Developing AI System Tutorials: 
 
