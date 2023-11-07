@@ -6,7 +6,8 @@ Discovering cosmic phenomena and extraterrestrial life with AI.
 - [Description](#description)
 - [Vision And Mission](#vision-and-mission)
 - [Technologies](#technologies)
-- [Problems To Solve](#problems-to-solve) 
+- [Problems To Solve](#problems-to-solve)
+- [Contributor Guide](#contributor-guide) 
 
 # Description 
 
@@ -55,6 +56,46 @@ TechAstronomerAI combines these cutting-edge technologies to expand the horizons
 5. **Automating Research Processes:** Developing tools to automate and expedite the analysis and interpretation of astronomical data, enabling faster discoveries and new insights.
 
 TechAstronomerAI strives to overcome these challenges by employing AI-driven solutions, thereby revolutionizing the field of astronomy and advancing our understanding of the cosmos.
+
+# Contributor Guide 
+
+### TechAstronomerAI GitHub Repository Contributor Guide
+
+Welcome to TechAstronomerAI! We greatly appreciate your interest in contributing to our repository. Here's a guide to assist you in making valuable contributions to our project:
+
+#### Getting Started
+1. **Fork the Repository:** Click the "Fork" button at the top right of the repository page to create a copy in your GitHub account.
+
+2. **Clone the Repository:** Use `git clone` followed by the URL of your forked repository to have a local copy on your system.
+
+3. **Set Up the Development Environment:** Follow the instructions in the README file to set up the development environment for TechAstronomerAI.
+
+#### Making Contributions
+1. **Create a Branch:** Before making changes, create a new branch for your work using a descriptive name. Use `git checkout -b branch-name`.
+
+2. **Make Changes:** Implement your changes, ensuring that they align with the project's guidelines and coding standards.
+
+3. **Commit Changes:** Once you've made your changes, commit them with clear and concise messages using `git commit -m "Your commit message"`.
+
+4. **Push Changes:** Upload your changes to your forked repository using `git push origin branch-name`.
+
+5. **Create a Pull Request (PR):** Head to the original TechAstronomerAI repository on GitHub. Click on "New Pull Request" and compare the changes. Provide a detailed description of your contribution.
+
+#### Contribution Guidelines
+- **Coding Standards:** Follow the coding style and standards established in the project.
+- **Documentation:** Ensure that your code changes are well-documented. Comment your code appropriately.
+- **Testing:** Write tests for the features or bug fixes you implement.
+- **Commit Messages:** Use clear and descriptive commit messages to explain the changes made in each commit.
+- **Pull Request Description:** Provide a detailed description of your changes in the PR, outlining what was done and why.
+
+#### Community and Communication
+- **Join Discussions:** Participate in discussions, share your ideas, and collaborate with other contributors through GitHub Issues and PR comments.
+- **Ask for Help:** If you have any questions or need assistance, feel free to ask in the repository's issue section or via comments in the PR.
+
+#### Recognition
+- **Recognition of Contributions:** We appreciate and acknowledge all valuable contributions. Your name will be mentioned in the contributors' list.
+
+We look forward to your contributions! Thank you for being a part of the TechAstronomerAI project. If you have any further questions or need assistance, don't hesitate to ask.
 
 # Developing AI System Tutorials: 
 
