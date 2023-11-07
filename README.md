@@ -2,6 +2,8 @@
 
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/KOSASIH/TechAstronomerAI/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/KOSASIH/TechAstronomerAI/actions/workflows/jekyll-gh-pages.yml)
 
+[![CodeQL](https://github.com/KOSASIH/TechAstronomerAI/actions/workflows/codeql.yml/badge.svg)](https://github.com/KOSASIH/TechAstronomerAI/actions/workflows/codeql.yml)
+
 # TechAstronomerAI
 Discovering cosmic phenomena and extraterrestrial life with AI.
 
