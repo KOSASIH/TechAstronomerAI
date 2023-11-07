@@ -9,7 +9,7 @@ Discovering cosmic phenomena and extraterrestrial life with AI.
 - [Problems To Solve](#problems-to-solve)
 - [Contributor Guide](#contributor-guide)
 - [Developing AI System Tutorials](#developing-ai-system-tutorials)
-- [Aknowledgement](#aknowledgement.md) 
+- [Aknowledgement](aknowledgement.md) 
 
 # Description 
 
